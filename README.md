@@ -1,27 +1,24 @@
-# Todolist
+# TodoList app in Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.0.
+Just run npm start. It's a vanilla angular application created using angular
+cli. Jsonplaceholder is used to provide mock data.
 
-## Development server
+## Screen Shots:
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+### Main Page
 
-## Code scaffolding
+![alt text](./screenshots/angular-main-page.png 'Main Page')
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+### Adding
 
-## Build
+Input Box ![alt text](./screenshots/angular-adding-1.png 'Input Box')
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+Added Todo ![alt text](./screenshots/angular-adding-2.png 'Added Todo')
 
-## Running unit tests
+### Marking Complete
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+![alt text](./screenshots/angular-marking-complete.png 'Marking Complete')
 
-## Running end-to-end tests
+### Deleting
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+![alt text](./screenshots/angular-deleting.png 'Deleting')
